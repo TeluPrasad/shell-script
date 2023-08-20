@@ -1,4 +1,6 @@
 #!/bin/bash
 
+# THis is script used to grab the date from the system.
 DATE=$(date)
-echo("System time is $DATE")
+
+echo "Hello the System time is $DATE"

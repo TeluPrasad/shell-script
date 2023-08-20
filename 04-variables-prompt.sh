@@ -2,8 +2,8 @@
 #This is the script to enter user name and password using prompt
 
 echo "Please enter the username"
-read -s USERNAME
+read -S USERNAME
 echo "user name is $USERNAME"
 echo "Please enter your password"
-read -s PASSWORD
+read -S PASSWORD
 echo "entered password is $PASSWORD"
